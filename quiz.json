@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Q1.What is full form of HTML?",
+    "a": "Hello To My Land",
+    "b": "Hey Text Markup Language",
+    "c": "HyperText  My Language",
+    "d": "HyperText Markup Language",
+    "ans": 4
+  },
+  {
+    "id": 2,
+    "question": "Q2.What is full form of HTTP?",
+    "a": "Hypertext Transfer Protocol",
+    "b": "Hey Text Markup Language",
+    "c": "HyperText Protocal",
+    "d": "HyperText Markup",
+    "ans": 1
+  },
+  {
+    "id": 3,
+    "question": "Q3.What is full form of CSS?",
+    "a": "Cascading Form",
+    "b": "Cascading Style Sheets",
+    "c": "Cascading Style",
+    "d": "Cascading Sheet",
+    "ans": 2
+  },
+  {
+    "id": 4,
+    "question": "Q4.A computer cannot boot if it does not have the",
+    "a": "Compiler",
+    "b": "Loader",
+    "c": "Operating system",
+    "d": "Assembler",
+    "ans": 3
+  }
+]

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+html{
+    font-size: medium;
+}
+.main-div{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+.inner-div{
+   
+    background-color: #fff;
+    padding: 3rem 8rem;
+    border-radius:4px;
+    box-shadow: 0 1rem 1rem -0.7rem rgba(0,0,0,0.4);
+    
+}
+
+input{
+    cursor: pointer;
+}
+
+
+#showScore{
+        background-color: #dfe6e9;
+        margin-top: 3rem;
+        padding: 3rem 4rem;
+        box-shadow: 0 1rem 1rem -0.7rem rgba(0,0,0,0.4);
+       
+        
+}
+.scoreArea{
+    display:none
+}
+.nextbtn{
+    display: none !important;
+}
